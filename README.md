@@ -109,7 +109,7 @@ streamlit run app/streamlit_app.py
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 ![Dashboard](assets/ROI.png)
 ![Dashboard](assets/Shap1.png)
 ![Dashboard](assets/Shap2.png)
