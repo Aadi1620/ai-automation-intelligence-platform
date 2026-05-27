@@ -66,3 +66,50 @@ automation-intelligence-ml/
 ├── README.md
 └── requirements.txt
 ```
+
+## Installation
+
+### Clone repository
+
+```bash
+git clone https://github.com/yourusername/automation-intelligence-ml.git
+```
+
+### Create virtual environment
+
+```bash
+python -m venv venv
+```
+
+### Activate environment
+
+Mac/Linux:
+
+```bash
+source venv/bin/activate
+```
+
+Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+### Install requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Streamlit app
+
+```bash
+streamlit run app/streamlit_app.py
+```
+
+## Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
+![Dashboard](assets/ROI.png)
+![Dashboard](assets/Shap1.png)
+![Dashboard](assets/Shap2.png)
