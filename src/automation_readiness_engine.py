@@ -6,7 +6,7 @@ def calculate_readiness_score(readiness_inputs):
     percentage_score = (total_score / max_score) * 100
 
     return round(percentage_score, 1)
-
+#test comment
 
 def determine_readiness_level(score):
     if score < 20:
